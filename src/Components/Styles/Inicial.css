@@ -1,0 +1,101 @@
+body{
+    background-color: rgb(249,252,251);
+    width: 98%;
+    height: 96%;
+}
+
+.produto{
+    position: absolute;
+    top: 7%;
+    left: 45%;
+    font-family: 'Nunito', bold;
+    color: rgb(27,80,150);
+
+}
+
+h1{
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Nunito', bold;
+    color: rgb(27,80,150);
+    font-size: 50px;
+}
+
+input{
+    position: absolute;
+    left: 32%;
+    top: 35%;
+    width: 350px;
+    height: 25px;
+    border-color: rgba(38, 117, 221, 1);
+    border-radius: 7px;
+    background-color: rgb(244,247,246);
+    padding-left: 10px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.24);
+}
+
+button{
+    position: absolute;
+    font-size: 15px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.24);
+    border-radius: 5px;
+}
+
+.botaoAdd{
+    left: 60%;
+    top: 35%;
+    height: 29px; /*altura*/
+    width: 115px; /*largura*/
+    border: 0ch;
+    background-color: rgb(168,200,240);
+}
+
+.produtos{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    font-size: larger;
+    font-family: 'Nunito', bold;
+    list-style-type: none;
+    line-height: 2.5em;
+}
+
+.barra{
+    background-color: rgba(168, 200, 240, 0.671);
+    width: 450px;
+    height: 35px;
+    position: absolute;
+    left: 33%;
+    top: 54%;
+}
+
+.barra2{
+    background-color: rgba(168, 200, 240, 0.671);
+    width: 450px;
+    height: 35px;
+    position: absolute;
+    left: 33%;
+    top: 68%;
+}
+
+.numero{
+    position: absolute;
+    left: 37%;
+    top: 50%;
+    font-size: larger;
+    font-family: 'Lato';
+    list-style-type: none;
+    line-height: 2.5em;
+}
+
+.botaoEditar{
+    left: 43%;
+    top: 84%;
+    height: 29px; /*altura*/
+    width: 115px; /*largura*/
+    border: 0ch;
+    background-color: rgb(240,206,205);   
+    color: rgb(201,1,1);
+}
