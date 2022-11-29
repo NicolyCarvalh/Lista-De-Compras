@@ -20,7 +20,7 @@ export default function Inicial() {
                 <li>1</li>
                 <li>1</li>
             </ul>
-            <Link to={"/Editar"}><button className="botaoEditar">EDITAR</button></Link>
+            <Link to={"/Edicao"}><button className="botaoEditar">EDITAR</button></Link>
         </body>
     )
 }

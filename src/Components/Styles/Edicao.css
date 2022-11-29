@@ -1,0 +1,76 @@
+.barraEdicao{
+    background-color: rgba(168, 200, 240, 0.671);
+    width: 520px;
+    height: 35px;
+    position: absolute;
+    left: 32%;
+    top: 35%;
+}
+
+.quantidade{
+    position: absolute;
+    left: 33%;
+    top: 31%;
+    font-size: larger;
+    font-family: 'Inter', sans-serif;
+    list-style-type: none;
+    line-height: 2.5em;
+}
+
+.iconMenos{
+    position: absolute;
+    left: 40%;
+    top: 35.5%;
+}
+
+.barraContador{
+    background-color: rgba(168, 200, 240, 0.671);
+    width: 55px;
+    height: 35px;
+    position: absolute;
+    left: 41.5%;
+    top: 35%;
+}
+
+.contador{
+    position: absolute;
+    left: 43.2%;
+    top: 31%;
+    font-size: larger;
+    font-family: 'Inter', sans-serif;
+    list-style-type: none;
+    line-height: 2.5em;
+}
+
+.produtoEdicao{
+    position: absolute;
+    left: 55%;
+    top: 31%;
+    font-size: larger;
+    font-family: 'Inter', sans-serif;
+    list-style-type: none;
+    line-height: 2.5em;
+}
+
+.iconMais{
+    position: absolute;
+    left: 46%;
+    top: 36.5%;
+}
+
+.iconLixo{
+    position: absolute;
+    left: 67%;
+    top: 36.3%;
+    color: rgb(255, 62, 62);
+}
+
+.botaoSalvar{
+        left: 46.5%;
+        top: 84%;
+        height: 29px; 
+        width: 115px; 
+        border: 0ch;
+        background-color: rgb(197,241,197);   
+        color: rgb(17,203,13);
+}

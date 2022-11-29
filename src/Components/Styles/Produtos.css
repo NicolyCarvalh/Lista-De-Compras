@@ -1,0 +1,29 @@
+.barraProdutos{
+    background-color: rgba(168, 200, 240, 0.671);
+    width: 600px;
+    height: 340px;
+    position: absolute;
+    left: 1px;
+    top: 55.5%;
+}
+
+.listaProdutos{
+    position: absolute;
+    text-align: center;
+    left: 28%;
+    top: 30%;
+    font-size: larger;
+    font-family: 'Inter', sans-serif;
+    list-style-type: none;
+    line-height: 2.5em;
+}
+
+.botaoVoltar{
+    left: 10%;
+    top: 21%;
+    height: 29px; /*altura*/
+    width: 115px; /*largura*/
+    border: 0ch;
+    background-color: rgb(195,217,244);   
+    color: rgb(0, 0, 0);
+}

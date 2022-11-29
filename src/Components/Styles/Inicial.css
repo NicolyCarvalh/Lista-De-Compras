@@ -7,7 +7,7 @@ body{
 .produto{
     position: absolute;
     top: 7%;
-    left: 45%;
+    left: 46.5%;
     font-family: 'Nunito', bold;
     color: rgb(27,80,150);
 
@@ -57,7 +57,7 @@ button{
     left: 50%;
     top: 50%;
     font-size: larger;
-    font-family: 'Nunito', bold;
+    font-family: 'Inter', sans-serif;
     list-style-type: none;
     line-height: 2.5em;
 }
@@ -85,13 +85,13 @@ button{
     left: 37%;
     top: 50%;
     font-size: larger;
-    font-family: 'Lato';
+    font-family: 'Inter', sans-serif;
     list-style-type: none;
     line-height: 2.5em;
 }
 
 .botaoEditar{
-    left: 43%;
+    left: 46.5%;
     top: 84%;
     height: 29px; /*altura*/
     width: 115px; /*largura*/
